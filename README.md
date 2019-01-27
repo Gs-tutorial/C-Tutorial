@@ -1,0 +1,2 @@
+# C-Tutorial
+Gs-Tutorial is gonna be starting with it's first series of C-Programming Language from basic to advance. Our mean focus in this tutorial is to start from the beginning and cover advance topic, we will also focus on Practice session which includes MCQ, Programs assignments  specific to the topic which we will Learn. For help and support you can write me on ->  gs.tutorial.help@gmail.com  
